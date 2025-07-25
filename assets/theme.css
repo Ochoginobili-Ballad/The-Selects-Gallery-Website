@@ -6616,7 +6616,9 @@ product-rerender {
   }
 }
 
-#header-menu-dropdown-2 .mega-menu a.always-underline {
+#header-menu-dropdown-2 .mega-menu a.always-underline,
+.header__dropdown-menu a.always-underline,
+.menu-drawer a.always-underline {
   text-decoration: underline;
   text-decoration-thickness: min(3px, .1em);
   text-underline-position: under;
