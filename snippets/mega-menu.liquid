@@ -32,13 +32,13 @@ Supported variables
       {%- else -%}
         {%- for sub_link in link.links -%}
           <div class="v-stack gap-4">
-              <a href="{{ sub_link.url }}" class="subheading link-faded{% if sub_link.title | downcase == 'view all' %} always-underline{% endif %}">{{ sub_link.title }}</a>
-
+            <a href="{{ sub_link.url }}" class="subheading link-faded">{{ sub_link.title }}</a>
+            
             {%- if sub_link.links.size > 0 -%}
               <ul class="mega-menu__linklist unstyled-list">
                 {%- for sub_sub_link in sub_link.links -%}
                   <li>
-                    <a href="{{ sub_sub_link.url }}" class="link-reversed{% if sub_sub_link.title | downcase == 'view all' %} always-underline{% endif %}">{{ sub_sub_link.title }}</a>
+                    <a href="{{ sub_sub_link.url }}" class="link-reversed">{{ sub_sub_link.title }}</a>
                   </li>
                 {%- endfor -%}
               </ul>
