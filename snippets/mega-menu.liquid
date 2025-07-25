@@ -25,7 +25,7 @@ Supported variables
         <ul class="mega-menu__linklist unstyled-list">
           {%- for sub_link in link.links -%}
             <li>
-              <a href="{{ sub_link.url }}" class="link-faded-reverse{% if sub_link.title | downcase == 'view all' %} always-underline{% endif %}">{{ sub_link.title }}</a>
+              <a href="{{ sub_link.url }}" class="link-faded-reverse">{{ sub_link.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
