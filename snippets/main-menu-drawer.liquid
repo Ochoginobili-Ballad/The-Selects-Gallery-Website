@@ -79,7 +79,8 @@ Supported variables
         <ul class="v-stack gap-3 unstyled-list">
           {%- for link in secondary_menu.links -%}
             <li>
-              <a href="{{ link.url }}" class="subheading link-reversed">{{ link.title }}</a>
+              {% assign view_title = link.title | strip | downcase %}
+              <a href="{{ link.url }}" class="subheading link-reversed{% if view_title == 'view all' %} always-underline{% endif %}">{{ link.title }}</a>
             </li>
           {%- endfor -%}
         </ul>
@@ -167,7 +168,8 @@ Supported variables
                   <ul class="v-stack gap-2.5 unstyled-list">
                     {%- for sub_link in link.links -%}
                       <li>
-                        <a href="{{ sub_link.url }}" class="link-reversed">{{ sub_link.title }}</a>
+                        {% assign view_title = sub_link.title | strip | downcase %}
+                        <a href="{{ sub_link.url }}" class="link-reversed{% if view_title == 'view all' %} always-underline{% endif %}">{{ sub_link.title }}</a>
                       </li>
                     {%- endfor -%}
                   </ul>
@@ -175,13 +177,15 @@ Supported variables
                   <div class="v-stack gap-8">
                     {%- for sub_link in link.links -%}
                       <div class="v-stack justify-items-start gap-4">
-                        <a href="{{ sub_link.url }}" class="subheading text-subdued link-reversed">{{ sub_link.title }}</a>
+                        {% assign view_title = sub_link.title | strip | downcase %}
+                        <a href="{{ sub_link.url }}" class="subheading text-subdued link-reversed{% if view_title == 'view all' %} always-underline{% endif %}">{{ sub_link.title }}</a>
 
                         {%- if sub_link.links.size > 0 -%}
                           <ul class="v-stack gap-2.5 unstyled-list">
                             {%- for sub_sub_link in sub_link.links -%}
                               <li>
-                                <a href="{{ sub_sub_link.url }}" class="link-reversed">{{ sub_sub_link.title }}</a>
+                                {% assign view_title = sub_sub_link.title | strip | downcase %}
+                                <a href="{{ sub_sub_link.url }}" class="link-reversed{% if view_title == 'view all' %} always-underline{% endif %}">{{ sub_sub_link.title }}</a>
                               </li>
                             {%- endfor -%}
                           </ul>
