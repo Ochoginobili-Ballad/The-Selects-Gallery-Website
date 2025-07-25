@@ -6597,6 +6597,32 @@ product-rerender {
   align-self: stretch;
 }
 
+@media screen and (min-width: 1024px) {
+  #header-menu-dropdown-2 .mega-menu__navigation {
+    flex-wrap: nowrap;
+    max-width: none;
+  }
+  #header-menu-dropdown-2 .mega-menu__navigation > .v-stack:nth-child(2) .mega-menu__linklist {
+    display: block;
+    max-width: none;
+    column-count: 2;
+    column-gap: 1.5rem;
+  }
+
+  #header-menu-dropdown-2 .mega-menu__navigation > .v-stack:nth-child(2) .mega-menu__linklist li {
+    white-space: nowrap;
+    break-inside: avoid;
+    margin-bottom: .6rem;
+  }
+}
+
+#header-menu-dropdown-2 .mega-menu a.always-underline {
+  text-decoration: underline;
+  text-decoration-thickness: min(3px, .1em);
+  text-underline-position: under;
+  background-size: 100% 1px;
+}
+
 .menu-drawer {
   --menu-drawer-padding-inline: 1.5rem;
   display: none;
