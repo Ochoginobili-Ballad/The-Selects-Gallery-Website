@@ -35,7 +35,7 @@ Supported variables
           <div class="v-stack gap-4">
               {% assign view_title = sub_link.title | strip | downcase %}
               <a href="{{ sub_link.url }}" class="subheading link-faded{% if view_title == 'view all' %} always-underline{% endif %}">{{ sub_link.title }}</a>
-            
+
             {%- if sub_link.links.size > 0 -%}
               <ul class="mega-menu__linklist unstyled-list">
                 {%- for sub_sub_link in sub_link.links -%}
