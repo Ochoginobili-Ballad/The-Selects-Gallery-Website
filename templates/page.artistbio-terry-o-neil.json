@@ -1,1 +1,975 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"color_scheme":"","show_title":true,"content_width":"md"}},"rich_text_BUgBQi":{"type":"rich-text","blocks":{"subheading_eXGmqa":{"type":"subheading","settings":{"text":"Vintage & Estate"}},"heading_n7jrJR":{"type":"heading","settings":{"text":"Terry O'Neil","heading_tag":"h3","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"image_8B8zBa":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/image-005_2.jpg","width_mode":"custom","max_width":190,"mobile_max_width":190}},"richtext_CfeqJb":{"type":"richtext","settings":{"text":"<p>Terry O’Neill was a photographer best known for his work produced during the 1960’s. One of the first to see the potential of youth culture and the appeal of celebrity, Terry made his career in chronicling the most iconic faces of the day, including Bridget Bardot, Kate Moss, Frank Sinatra, and Mick Jagger. Terry O’Neill documented the most influential people and moments of the 1960’s by following his intuition, sensing the zeitgeist of the era and its key players before it became known as “the Swinging Sixties,” when its icons were just artists struggling to get a foot in the door. <\/p><p>Terry O’Neill was awarded the Royal Photographic Society Centenary Medal in 2011 and was an Honorary Fellow. He was also awarded a Commander of the British Empire for services to Photography in 2019. Today, he is one of the most celebrated and collected photographers in the world.<\/p>"}},"button_wGTLy6":{"type":"button","settings":{"text":"Browse Our Collection","url":"shopify:\/\/collections\/terry-oneil","open_in_new_tab":false,"style":"outline","background":"","text_color":""}}},"block_order":["subheading_eXGmqa","heading_n7jrJR","image_8B8zBa","richtext_CfeqJb","button_wGTLy6"],"name":"t:sections.rich_text.name","settings":{"color_scheme":"","content_width":"lg","text_alignment":"center"}},"testimonials_kRqTKB":{"type":"testimonials","blocks":{"testimonial_D8izER":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/elton_john.jpg","show_rating":false,"rating":4,"author":"Elton John","title":"“He captured moments as no other photographer could”","heading_tag":"h4","product":"","position":"place-self-start"}},"testimonial_H3Kkqh":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/images_3.jpg","show_rating":false,"rating":0,"author":"<strong>Michael Cane<\/strong>","title":"“Terry is I believe a ‘historian’ whose camera captured the resurgence and energy of the 60s. I can think of no other photographer who has contributed so much to our heritage”","heading_tag":"h5","product":"","position":"place-self-start"}}},"block_order":["testimonial_D8izER","testimonial_H3Kkqh"],"name":"t:sections.testimonials.name","settings":{"color_scheme":"","text_alignment":"left","image_position":"end","autoplay":true,"cycle_speed":6}},"custom_liquid_DjUM69":{"type":"custom-liquid","name":"t:sections.custom_liquid.name","settings":{"color_scheme":"","liquid":"{% comment %} Simple spacer to add vertical breathing room between sections {% endcomment %}\n<div style=\"padding-top: 2rem; padding-bottom: 2rem;\"><\/div>","text_alignment":"left","add_vertical_spacing":true,"add_horizontal_spacing":true}},"multi_column_KVPHFA":{"type":"multi-column","blocks":{"multi_column_column_YnAEka":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_W8V9EL":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/terry_oneil_book_1.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_eaTUWX":{"type":"heading","settings":{"text":"<a href=\"https:\/\/www.amazon.com\/Terry-ONeill-Every-Picture-Tells\/dp\/178884128X\/ref=sr_1_1?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=8-1\" target=\"_blank\">Terry O’Neill: Every Picture Tells a Story (2021)<\/a>","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}}},"block_order":["image_W8V9EL","heading_eaTUWX"]},"multi_column_column_U9rXpH":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_pyHeLJ":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/terry_oneil_book_2.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_GdkrTG":{"type":"heading","settings":{"text":"<a href=\"https:\/\/www.amazon.com\/Terry-ONeill-standard-2018-ed\/dp\/1788840283\/ref=sr_1_2?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=8-2%29\" target=\"_blank\">Terry O’Neill (2019)<\/a>","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}}},"block_order":["image_pyHeLJ","heading_GdkrTG"]},"multi_column_column_NpULjB":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_XpwTT3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/terry_oneil_book_3.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_dEe7fG":{"type":"heading","settings":{"text":"<a href=\"https:\/\/www.amazon.com\/Terry-ONeil-Rare-Unseen-ONeill\/dp\/1851498915\/ref=sr_1_5?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=8-5\" target=\"_blank\">Terry O’Neill: Rare & Unseen (2018)<\/a>","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}}},"block_order":["image_XpwTT3","heading_dEe7fG"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"Books & Publications","content":"","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h3","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_YnAEka","multi_column_column_U9rXpH","multi_column_column_NpULjB"],"custom_css":[".prose--compact {display: flex; flex-direction: column;}",".prose--compact img,.prose--compact video {width: 100%; aspect-ratio: 4\/5; object-fit: cover;}",".prose--compact h5 {margin-bottom: 0.25rem;}",".prose--compact p {margin-top: 0.25rem; margin-bottom: 1rem;}",".prose--compact .button {margin-top: auto; align-self: flex-start;}"],"name":"t:sections.multi_column.name","settings":{"color_scheme":"","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":4,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"lg","row_spacing":"md"}},"custom_liquid_pndtrh":{"type":"custom-liquid","disabled":true,"name":"t:sections.custom_liquid.name","settings":{"color_scheme":"","liquid":"{% comment %} Simple spacer to add vertical breathing room between sections {% endcomment %}\n<div style=\"padding-top: 2rem; padding-bottom: 2rem;\"><\/div>","text_alignment":"left","add_vertical_spacing":true,"add_horizontal_spacing":true}},"rich_text_pPFxHY":{"type":"rich-text","blocks":{"heading_maNaK3":{"type":"heading","settings":{"text":"Our Notes","heading_tag":"h3","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_XkRARg":{"type":"richtext","settings":{"text":"<p>Terry O’Neill’s photographs feel familiar even to those who have never heard his name before. His photographs have transcended him, becoming cultural relics which hold our ideas of celebrity, creativity, and culture as they were perceived in the 1960’s and resonate to this day. <\/p><p>Born in London, as a teenager Terry fell in love with jazz: an affair which was interrupted by the national service. After the war, he was desperate to nurture his love for music in America. Applying for a job as an air steward in the hopes he would land in the United States, he was offered a position as a photographer for the London Airport. Tasked with taking images of the interiors of planes, he soon turned his lens towards the celebrities in the airport who walked the same halls and waited in the same seats as everyone else, and who did not yet have an aversion to paparazzi. <\/p><p>One day, by chance, Terry took an image of Home Secretary Rab Butler and a newspaper asked to buy the image. Terry began working at the Daily Sketch in 1959, marking the beginning of a career in which he photographed celebrities such as Laurence Olivier, Audrey Hepburn, Elton John, Judy Garland, The Beatles, the Rolling Stones, Kate Moss, and Faye Dunaway, creating images which became iconic representations of their legacies. <\/p><p>Terry O’Neill very possibly represents the best of the genre: a photographer who loves his life, his work, and his subjects. As one of the first photographers who took the role of a paparazzi, Terry looked to uplift his subjects, capturing their vibrancy, their talent, and their uniqueness, never their worst moments or flaws. In Terry’s world, his celebrities represent the potential of humanity, all its creativity and connection. It is this optimism and hopefulness, this rose-colored view of the world, which has lent staying power to his portfolio of work. In his images, we see icons captured with warmth and softness, images which have the feel of personal photographs taken of friends.<\/p>"}}},"block_order":["heading_maNaK3","richtext_XkRARg"],"custom_css":[],"name":"t:sections.rich_text.name","settings":{"color_scheme":"","content_width":"lg","text_alignment":"left"}},"rich_text_Dw7gaM":{"type":"rich-text","blocks":{"heading_yNKNNF":{"type":"heading","settings":{"text":"Publications","heading_tag":"h3","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_MbqX9L":{"type":"richtext","settings":{"text":"<p><a href=\"https:\/\/www.amazon.com\/Elton-John-Terry-Oneill-%20Photographs\/dp\/1788403738\/ref=sr_1_6?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156%20&sr=8-6\" target=\"_blank\">Elton John by Terry O’Neill: 40 Years in Photographs (2022)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Bond-Photographed-ONeill-Definitive-%20Collection\/dp\/1788840720\/ref=sr_1_3?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&s%20r=8-3&sprefix=terry%20o%20neil%2Caps%2C156\" target=\"_blank\">Bond: Photographed by Terry O’Neill: The Definitive Collection (2020)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Terry-ONeills-Rock-Roll-Album\/dp\/1851497722\" target=\"_blank\">Terry O’Neill’s Rock ‘N’ Roll Album (2020)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/When-Ziggy-Played-%20Marquee-Performance\/dp\/1788840593\/ref=sr_1_10?qid=1655838509&refinements=p_27%3ATerry+O%27Neill&s=books&sr=1-%2010&text=Terry+O%27Neill\" target=\"_blank\">When Ziggy Played the Marquee: David Bowie’s Last Performance as Ziggy Stardust (2019)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Bowie-ONeill-definitive-collection-%20unseen\/dp\/1788401018\/ref=sr_1_7?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=%208-7\" target=\"_blank\">Bowie by O’Neill (2019)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Elton-John-ONeill-definitive-%20portrait\/dp\/1788401484\/ref=sr_1_2?qid=1655838509&refinements=p_27%3ATerry+O%27Neill&s=books&sr=1-2&text=Terry+O%27Neill\" target=\"_blank\">Elton John by Terry O’Neill (2019)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Breaking-Stones-1963-1965-Brink-%20Superstardom\/dp\/1851498168\/ref=sr_1_10?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C1%2056&sr=8-10\" target=\"_blank\">Breaking Stones: 1693-1965 (2016)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Two-Days-that-Rocked-%20World\/dp\/1851498060\/ref=sr_1_6?qid=1655838509&refinements=p_27%3ATerry+O%27Neill&s=books&sr=1-6&text=Terry+O%27Neill\" target=\"_blank\">Two Days that Rocked the World: Elton John Live at Dodger Stadium (2015)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/All-About-Bond-Terry-%20ONeill\/dp\/1901268578\/ref=sr_1_14?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=%208-14\" target=\"_blank\">All About Bond (2012)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Eltonography-Life-Pictures-Terry-%20ONeill\/dp\/1901268330\/ref=sr_1_9?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=8-%209\" target=\"_blank\">Eltonography; A Life in Pictures (2008)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Sinatra-Frank-Friendly-Terry-%20ONeill\/dp\/1901268322\/ref=sr_1_15?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=%208-15\" target=\"_blank\">Sinatra: Frank & Friendly (2007)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Terry-ONeill-Chris-Beetles-%20Gallery\/dp\/1871136954\/ref=sr_1_16?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=%208-16\" target=\"_blank\">Terry O’Neill: The Art of Photography (2007)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Celebrity-Terry-%20ONeill\/dp\/0316724459\/ref=sr_1_8?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=8-%208\" target=\"_blank\">Celebrity: The Photographs of Terry O’Neill (2003)<\/a><\/p><p><a href=\"https:\/\/www.amazon.com\/Legends-Terry-%20ONeill\/dp\/0670809330\/ref=sr_1_13?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=%208-13\" target=\"_blank\">Legends (1985)<\/a><\/p>"}}},"block_order":["heading_yNKNNF","richtext_MbqX9L"],"name":"t:sections.rich_text.name","settings":{"color_scheme":"","content_width":"md","text_alignment":"left"}},"rich_text_w7M6jL":{"type":"rich-text","blocks":{"heading_M9zFRf":{"type":"heading","settings":{"text":"Retrospectives & Solo Shows","heading_tag":"h3","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_BGaQMQ":{"type":"richtext","settings":{"text":"<p>Terry O’Neill, Stars, Fotografiska, New York (2023)<\/p><p>Terry O’Neill Famous, Fotomuseum, Maastricht, Netherlands (2023)<\/p><p>Male Edition: The Art of Men’s Style, Fahey\/Klein Gallery, Los Angeles (2023)<\/p><p>Chic: Capturing that ‘Je Ne Sais Quoi’ In Fashion Photography, The Selects Gallery, New York (2023)<\/p><p>Walk of Fame, Camera Work, Berlin, Germany (2023)<\/p><p>Terry O’Neill, Stars, Fotografiska, New York (2023)<\/p><p>Terry O’Neill, Leica Store, Harrods, London (2022)<\/p><p>Terry O’Neill: 60 Years of Iconic Portraits, Sotheby’s, London (2020)<\/p><p>Terry O’Neill: ‘Every Picture Tells a Story,’ A Retrospective, Maddox Gallery, Gstaad, Switzerland (2020) <\/p><p>Terry O’Neill: A Tribute, Eduard Planting Gallery, Amsterdam (2020)<\/p><p>Bond by Terry O’Neill, Iconic Images Gallery, London (2020)<\/p><p>Terry O’Neill, The Vintage Collection, Zebra One Gallery, London (2020) <\/p><p>Terry O’Neill: Stars Only, Eduard Planting Gallery, Amsterdam (2018) <\/p><p>Terry O’Neill: Icons, Complesso Del Vittoriano, Rome (2018)<\/p><p>David Bowie by Terry O’neill, Ransom Art, London (2016)<\/p><p>Terry O’Neill: All About Bond, The Cat Street Gallery, Hong Kong (2015) <\/p><p>Terry O’Neill: Celebrity, National Portrait Gallery, London (2004)<\/p>"}}},"block_order":["heading_M9zFRf","richtext_BGaQMQ"],"name":"t:sections.rich_text.name","settings":{"color_scheme":"","content_width":"md","text_alignment":"left"}},"rich_text_4tPfN8":{"type":"rich-text","blocks":{"heading_cAF8ij":{"type":"heading","settings":{"text":"Exhibitions","heading_tag":"h3","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_mriEGq":{"type":"richtext","settings":{"text":"<p>Movies Made America, Holden Luntz Gallery, Palm Beach, Florida (2022) <\/p><p>Fashion, Box Galleries, London (2021)<\/p><p>10 Year Anniversary, Huxley-Parlor, London (2020) <\/p><p>Shaken, Not Stirred, Box Galleries, London (2020)<\/p><p>Always Audrey, The Iconic Images Gallery, London (2020)<\/p><p>Sir: A Retrospective of Rock Royalrt, Morrison Hotel Gallery, New York\/London\/Maui (2020) <\/p><p>Women, HK Art Advisory + Projects, New York (2019)<\/p><p>Hollywood Re-Loaded, HOFA Gallery, London (2019) <\/p><p>Music, Le Galerie de l’Instant, Paris (2019)<\/p><p>Chelsea Girls and Likely Lads, Iconic Images Gallery, London (2019) <\/p><p>True Glamour\/True Grit, Leica Gallery, London (2019)<\/p><p>Starstruck, Box Galleries, London (2019)<\/p><p>Terry O’Neill: Rare and Unseen, Blitz Gallery, Tokyo (2019) <\/p><p>Girls! Girls! Girls! Vol 2, The Little Black Gallery, London (2019) <\/p><p>Girls! Girls! Girls!, The Little Black Gallery, London (2018)<\/p><p>Rock ‘N’ Roll, The Little Black Gallery, London (2018)<\/p><p>The Year of the Dog, The Little Black Gallery, London (2018)<\/p><p>Photography’s Greatest Icons ‘A Collectors Exhibition,” Isabella Garrucho Fine Art, Greenwich, CT (2018)<\/p><p>Audrey Hepburn: Beyond the Screen, Proud Camden, London (2018)<\/p><p>Capturing Culture, Holden Luntz Gallery, Palm Beach, Florida (2018)<\/p><p>An Ode to Fashion Photogarphy, HK Art Advisory + Projects, New York (2018)<\/p><p>The Beatles vs The Rolling Stones, La Térmica, Malaga, Spain (2017)<\/p><p>Flash: British Photographers, Phillips, New York (2017)<\/p><p>Legends Passed, Eduard Planting Gallery, Amsterdam (2017)<\/p><p>Fame, OSME Gallery, Vienna, Austria (2017)<\/p><p>The Art of Sound and Movement, Holden Luntz Gallery, Palm Beach, Florida (2017)<\/p><p>Shoot! Shoot! Shoot, Münchner Stadtmuseum, Munich (2017)<\/p><p>Breaking Stones: 1963-1965, Eduard Planting Gallery, Amsterdam (2016)<\/p><p>Frank Sinatra and Audrey Hepburn: A Life in Pictures, Peter Fetterman Gallery, Los Angeles (2016)<\/p><p>ROCK STYLE. Curated by Tommy Hilfiger and Jeffrey Deitch, Sotheby’s, London (2015)<\/p><p>Audrey Hepburn: Portraits of an Icon, National Portrait Gallery, London (2015)<\/p><p>Blow-Up: Antonionis Filmklassiker und die Fotografie, Fotomuseum Winterthur, Winterthur, Switzerland (2014)<\/p><p>The Sunday Times Magazine 50th Anniversary, Saatchi Gallery, London (2012)<\/p>"}}},"block_order":["heading_cAF8ij","richtext_mriEGq"],"name":"t:sections.rich_text.name","settings":{"color_scheme":"","content_width":"md","text_alignment":"left"}},"rich_text_Mg38bx":{"type":"rich-text","blocks":{"heading_U4MBpx":{"type":"heading","settings":{"text":"Auctions","heading_tag":"h3","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_3rHx9B":{"type":"richtext","settings":{"text":"<p>Fashion Photographs from the Susanne von Meiss Collection, Christie’s Paris (2022)<\/p><p>First Open: Post-War & Contemporary Art Online, Christie’s London (2020)<\/p><p>Fashion Photo, Christie’s New York (2019)<\/p><p>Made in Britain, Sotheby's London (2018)<\/p><p>Photographs: The Portrait, Christie’s London (2015)<\/p><p>British Modern & Contemporary Photography, Christie’s London (2015)<\/p><p>Hollywood Icons, Christie’s London (2014)<\/p><p>Christie's Interiors, Christie’s London (2013)<\/p><p>The London Sale, Christie’s London (2012)<\/p><p>Pop Culture: Film & Entertainment Memorabilia, Christie’s London (2011)<\/p><p>Icons of Glamour and Style: The Constantiner Collection, Christie’s Paris (2019)<\/p><p>Photographs, Christie’s Paris, New York, and London (2022, 2019, 2016, 2014, 2013, 2012..)<\/p>"}}},"block_order":["heading_U4MBpx","richtext_3rHx9B"],"name":"t:sections.rich_text.name","settings":{"color_scheme":"","content_width":"md","text_alignment":"left"}},"dynamic_grid_YcBzG7":{"type":"dynamic-grid","blocks":{"dynamic_grid_item_KWxPBd":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"center","desktop_row_start":6,"desktop_column_start":6,"desktop_column_end":12,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":9,"mobile_column_start":1,"mobile_column_end":6,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"rich_text_t3N3Nf":{"type":"rich-text","settings":{"text":"","content_width":"full"},"blocks":{}}},"block_order":["rich_text_t3N3Nf"]},"dynamic_grid_item_frViL6":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":2,"desktop_column_start":5,"desktop_column_end":15,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":4,"mobile_column_start":1,"mobile_column_end":8,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"dynamic_grid_heading_rtmHFP":{"type":"_dynamic-grid-heading","settings":{"text":"An evocative collaboration between photography and embroidery, <em>Threads of Time<\/em> reimagines American iconography through the delicate lens of haute couture craftsmanship.","show_text_vertically":false,"font_size_desktop":3,"font_size_mobile":10,"font_size_line_height":1,"html_tag":"p","indent":"none","highlight_effect":"underline_pencil","highlight_accent_color":"","highlight_text_color":""},"blocks":{}}},"block_order":["dynamic_grid_heading_rtmHFP"]},"dynamic_grid_item_TceVTN":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":1,"desktop_column_start":3,"desktop_column_end":4,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":1,"mobile_column_start":1,"mobile_column_end":2,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_q7a6L8":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/ochoginobili_portrait_--no_text_icons_or_objects_--ar_23_--ra_4cbe6789-005d-45ce-84cd-595f0c459a4c_3.png","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_q7a6L8"]},"dynamic_grid_item_gfa37J":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":1,"desktop_column_start":15,"desktop_column_end":16,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":1,"mobile_column_start":6,"mobile_column_end":8,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_mfrwgd":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/American_Flag_by_Robert_Farber_x_Atelier_Lebuisson_Work_in_Progress_credits_theselectsgallery_1.jpg","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_mfrwgd"]},"dynamic_grid_item_kn6Th3":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":3,"desktop_column_start":1,"desktop_column_end":3,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":12,"mobile_column_start":1,"mobile_column_end":3,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_kng6hD":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/American_Flag_by_Robert_Farber_x_Atelier_Lebuisson_close-up_credits__theselectsgallery_1.jpg","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_kng6hD"]},"dynamic_grid_item_7VYYHc":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":3,"desktop_column_start":12,"desktop_column_end":14,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":8,"mobile_column_start":6,"mobile_column_end":8,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_CQxiBU":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/Delphine_Nobili_Founder_Atelier_Lebuisson_credit__theselectsgallery.jpg","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_CQxiBU"]}},"block_order":["dynamic_grid_item_KWxPBd","dynamic_grid_item_frViL6","dynamic_grid_item_TceVTN","dynamic_grid_item_gfa37J","dynamic_grid_item_kn6Th3","dynamic_grid_item_7VYYHc"],"disabled":true,"name":"t:sections.dynamic_grid.name","settings":{"color_scheme":"scheme-2","allow_transparent_header":true,"background_image":"shopify:\/\/shop_images\/0._Diner_by_Robert_Farber_x_Atelier_Lebuisson_credits__40theselectsgallery_framed_547a15e2-d73c-471e-b58a-9f07c2517259.jpg","show_background_image_parallax":true,"add_vertical_spacing":true,"add_horizontal_spacing":true,"gap":0,"mobile_gap":10,"overlay_color":"#000000","overlay_opacity":20}},"custom_liquid_iENWFQ":{"type":"custom-liquid","disabled":true,"name":"t:sections.custom_liquid.name","settings":{"color_scheme":"","liquid":"{% comment %} Simple spacer to add vertical breathing room between sections {% endcomment %}\n<div style=\"padding-top: 2rem; padding-bottom: 2rem;\"><\/div>","text_alignment":"left","add_vertical_spacing":true,"add_horizontal_spacing":true}},"featured_product_jMxaV6":{"type":"featured-product","blocks":{"vendor_yCgQfy":{"type":"vendor","settings":{}},"title_LL9LNW":{"type":"title","settings":{"heading_tag":"h3"}},"badges_cwdJge":{"type":"badges","settings":{}},"price_QHBWwU":{"type":"price","disabled":true,"settings":{"show_taxes_notice":false}},"rating_jY84X7":{"type":"rating","disabled":true,"settings":{"show_empty":false}},"payment_terms_WfVkkc":{"type":"payment_terms","settings":{}},"separator_mafweJ":{"type":"separator","settings":{}},"description_P6faR6":{"type":"description","settings":{"collapse_content":false,"uppercase_title":false}},"variant_picker_DjTf4V":{"type":"variant_picker","settings":{"hide_sold_out_variants":false,"separate_options":false,"selector_style":"block","swatch_selector_style":"swatch","swatch_selector_size":"lg","block_selector_style":"outline","variant_image_options":"","size_chart_page":""}},"buy_buttons_kjQxte":{"type":"buy_buttons","disabled":true,"settings":{"show_payment_button":true,"show_gift_card_recipient":true,"show_quantity_selector":true,"add_quantity_selector_spacing":true,"atc_button_style":"solid","atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"pickup_availability_9dbrRt":{"type":"pickup_availability","disabled":true,"settings":{}}},"block_order":["vendor_yCgQfy","title_LL9LNW","badges_cwdJge","price_QHBWwU","rating_jY84X7","payment_terms_WfVkkc","separator_mafweJ","description_P6faR6","variant_picker_DjTf4V","buy_buttons_kjQxte","pickup_availability_9dbrRt"],"disabled":true,"name":"t:sections.featured_product.name","settings":{"color_scheme":"","subheading":"","title":"","title_tag":"h3","title_icon":"none","show_scrolling_title":false,"show_product_link":false,"text_alignment":"center","product":"robert-farber-wet-series","product_media_size":50,"content_alignment":"left","desktop_media_layout":"carousel","desktop_carousel_controls":"thumbnails_under","mobile_controls":"lines","enable_media_autoplay":false,"enable_video_looping":true,"enable_image_zoom":true,"max_image_zoom_level":3}},"media_blocks_6e9E6w":{"type":"media-blocks","disabled":true,"name":"t:sections.media_blocks.name","settings":{"color_scheme":"","allow_transparent_header":true,"subheading":"","title":"The Artists","content":"<p>A transatlantic collaboration between two visionary talents—uniting Robert Farber’s photographic legacy with Delphine Nobili’s couture embroidery expertise.<\/p>","heading_tag":"h4","text_alignment":"left","scrolling_title":false,"scrolling_title_separator":"circle","stack_on_mobile":true,"add_horizontal_spacing":true,"add_border":false,"column_spacing":"sm","items_per_row":2,"block_size":"auto"}},"multi_column_kCCCaf":{"type":"multi-column","blocks":{"multi_column_column_qgXLJq":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_DeAndc":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Screenshot_2025-03-10_at_12.08.48_PM.png","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_nAkRnB":{"type":"heading","settings":{"text":"Atelier Lebuisson’s team","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}}},"block_order":["image_DeAndc","heading_nAkRnB"]},"multi_column_column_ggYLBB":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_taQNUG":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Screenshot_2025-03-10_at_12.09.06_PM.png","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_iie7bd":{"type":"heading","settings":{"text":"Dior Couture SS 2025","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}}},"block_order":["image_taQNUG","heading_iie7bd"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"Atelier Lebuisson's Exceptional Savoir-Faire","content":"<p>An album specially created for the exhibition presents the exceptional savoir-faire of Delphine Nobili and her team. Designed as a sketchbook, it features embroidery samples and highlights the studio’s collaborations with renowned fashion houses. <\/p>","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h3","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_qgXLJq","multi_column_column_ggYLBB"],"disabled":true,"name":"t:sections.multi_column.name","settings":{"color_scheme":"","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":4,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"lg","row_spacing":"md"}}},"order":["main","rich_text_BUgBQi","testimonials_kRqTKB","custom_liquid_DjUM69","multi_column_KVPHFA","custom_liquid_pndtrh","rich_text_pPFxHY","rich_text_Dw7gaM","rich_text_w7M6jL","rich_text_4tPfN8","rich_text_Mg38bx","dynamic_grid_YcBzG7","custom_liquid_iENWFQ","featured_product_jMxaV6","media_blocks_6e9E6w","multi_column_kCCCaf"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "content_width": "md"
+      }
+    },
+    "rich_text_BUgBQi": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_eXGmqa": {
+          "type": "subheading",
+          "settings": {
+            "text": "Vintage & Estate"
+          }
+        },
+        "heading_n7jrJR": {
+          "type": "heading",
+          "settings": {
+            "text": "Terry O'Neil",
+            "heading_tag": "h3",
+            "indent": "none",
+            "highlight_effect": "default",
+            "highlight_accent_color": "",
+            "highlight_text_color": ""
+          }
+        },
+        "image_8B8zBa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/image-005_2.jpg",
+            "width_mode": "custom",
+            "max_width": 190,
+            "mobile_max_width": 190
+          }
+        },
+        "richtext_CfeqJb": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Terry O’Neill was a photographer best known for his work produced during the 1960’s. One of the first to see the potential of youth culture and the appeal of celebrity, Terry made his career in chronicling the most iconic faces of the day, including Bridget Bardot, Kate Moss, Frank Sinatra, and Mick Jagger. Terry O’Neill documented the most influential people and moments of the 1960’s by following his intuition, sensing the zeitgeist of the era and its key players before it became known as “the Swinging Sixties,” when its icons were just artists struggling to get a foot in the door. </p><p>Terry O’Neill was awarded the Royal Photographic Society Centenary Medal in 2011 and was an Honorary Fellow. He was also awarded a Commander of the British Empire for services to Photography in 2019. Today, he is one of the most celebrated and collected photographers in the world.</p>"
+          }
+        },
+        "button_wGTLy6": {
+          "type": "button",
+          "settings": {
+            "text": "Browse Our Collection",
+            "url": "shopify://collections/terry-oneill",
+            "open_in_new_tab": false,
+            "style": "outline",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_eXGmqa",
+        "heading_n7jrJR",
+        "image_8B8zBa",
+        "richtext_CfeqJb",
+        "button_wGTLy6"
+      ],
+      "name": "t:sections.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": "lg",
+        "text_alignment": "center"
+      }
+    },
+    "testimonials_kRqTKB": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_D8izER": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/elton_john.jpg",
+            "show_rating": false,
+            "rating": 4,
+            "author": "Elton John",
+            "title": "“He captured moments as no other photographer could”",
+            "heading_tag": "h4",
+            "product": "",
+            "position": "place-self-start"
+          }
+        },
+        "testimonial_H3Kkqh": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/images_3.jpg",
+            "show_rating": false,
+            "rating": 0,
+            "author": "<strong>Michael Cane</strong>",
+            "title": "“Terry is I believe a ‘historian’ whose camera captured the resurgence and energy of the 60s. I can think of no other photographer who has contributed so much to our heritage”",
+            "heading_tag": "h5",
+            "product": "",
+            "position": "place-self-start"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_D8izER",
+        "testimonial_H3Kkqh"
+      ],
+      "name": "t:sections.testimonials.name",
+      "settings": {
+        "color_scheme": "",
+        "text_alignment": "left",
+        "image_position": "end",
+        "autoplay": true,
+        "cycle_speed": 6
+      }
+    },
+    "custom_liquid_DjUM69": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "liquid": "{% comment %} Simple spacer to add vertical breathing room between sections {% endcomment %}\n<div style=\"padding-top: 2rem; padding-bottom: 2rem;\"></div>",
+        "text_alignment": "left",
+        "add_vertical_spacing": true,
+        "add_horizontal_spacing": true
+      }
+    },
+    "multi_column_KVPHFA": {
+      "type": "multi-column",
+      "blocks": {
+        "multi_column_column_YnAEka": {
+          "type": "_multi-column-column",
+          "settings": {
+            "color_scheme": "",
+            "text_alignment": "left"
+          },
+          "blocks": {
+            "image_W8V9EL": {
+              "type": "image",
+              "settings": {
+                "image": "shopify://shop_images/terry_oneil_book_1.jpg",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            },
+            "heading_eaTUWX": {
+              "type": "heading",
+              "settings": {
+                "text": "<a href=\"https://www.amazon.com/Terry-ONeill-Every-Picture-Tells/dp/178884128X/ref=sr_1_1?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=8-1\" target=\"_blank\">Terry O’Neill: Every Picture Tells a Story (2021)</a>",
+                "heading_size": "h6",
+                "html_tag": "p",
+                "indent": "none",
+                "highlight_effect": "default",
+                "highlight_accent_color": "",
+                "highlight_text_color": ""
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_W8V9EL",
+            "heading_eaTUWX"
+          ]
+        },
+        "multi_column_column_U9rXpH": {
+          "type": "_multi-column-column",
+          "settings": {
+            "color_scheme": "",
+            "text_alignment": "left"
+          },
+          "blocks": {
+            "image_pyHeLJ": {
+              "type": "image",
+              "settings": {
+                "image": "shopify://shop_images/terry_oneil_book_2.jpg",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            },
+            "heading_GdkrTG": {
+              "type": "heading",
+              "settings": {
+                "text": "<a href=\"https://www.amazon.com/Terry-ONeill-standard-2018-ed/dp/1788840283/ref=sr_1_2?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=8-2%29\" target=\"_blank\">Terry O’Neill (2019)</a>",
+                "heading_size": "h6",
+                "html_tag": "p",
+                "indent": "none",
+                "highlight_effect": "default",
+                "highlight_accent_color": "",
+                "highlight_text_color": ""
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_pyHeLJ",
+            "heading_GdkrTG"
+          ]
+        },
+        "multi_column_column_NpULjB": {
+          "type": "_multi-column-column",
+          "settings": {
+            "color_scheme": "",
+            "text_alignment": "left"
+          },
+          "blocks": {
+            "image_XpwTT3": {
+              "type": "image",
+              "settings": {
+                "image": "shopify://shop_images/terry_oneil_book_3.jpg",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            },
+            "heading_dEe7fG": {
+              "type": "heading",
+              "settings": {
+                "text": "<a href=\"https://www.amazon.com/Terry-ONeil-Rare-Unseen-ONeill/dp/1851498915/ref=sr_1_5?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=8-5\" target=\"_blank\">Terry O’Neill: Rare & Unseen (2018)</a>",
+                "heading_size": "h6",
+                "html_tag": "p",
+                "indent": "none",
+                "highlight_effect": "default",
+                "highlight_accent_color": "",
+                "highlight_text_color": ""
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_XpwTT3",
+            "heading_dEe7fG"
+          ]
+        },
+        "section-header": {
+          "type": "_section-header",
+          "static": true,
+          "settings": {
+            "subheading": "",
+            "title": "Books & Publications",
+            "content": "",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "outline",
+            "text_alignment": "left",
+            "heading_size": "h3",
+            "title_icon": "none",
+            "show_scrolling_title": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "multi_column_column_YnAEka",
+        "multi_column_column_U9rXpH",
+        "multi_column_column_NpULjB"
+      ],
+      "custom_css": [
+        ".prose--compact {display: flex; flex-direction: column;}",
+        ".prose--compact img,.prose--compact video {width: 100%; aspect-ratio: 4/5; object-fit: cover;}",
+        ".prose--compact h5 {margin-bottom: 0.25rem;}",
+        ".prose--compact p {margin-top: 0.25rem; margin-bottom: 1rem;}",
+        ".prose--compact .button {margin-top: auto; align-self: flex-start;}"
+      ],
+      "name": "t:sections.multi_column.name",
+      "settings": {
+        "color_scheme": "",
+        "show_internal_borders": false,
+        "add_horizontal_spacing": true,
+        "add_top_spacing": true,
+        "add_bottom_spacing": true,
+        "items_per_row": 4,
+        "stack_on_mobile": false,
+        "stack_on_desktop": true,
+        "column_spacing": "lg",
+        "row_spacing": "md"
+      }
+    },
+    "custom_liquid_pndtrh": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "liquid": "{% comment %} Simple spacer to add vertical breathing room between sections {% endcomment %}\n<div style=\"padding-top: 2rem; padding-bottom: 2rem;\"></div>",
+        "text_alignment": "left",
+        "add_vertical_spacing": true,
+        "add_horizontal_spacing": true
+      }
+    },
+    "rich_text_pPFxHY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_maNaK3": {
+          "type": "heading",
+          "settings": {
+            "text": "Our Notes",
+            "heading_tag": "h3",
+            "indent": "none",
+            "highlight_effect": "default",
+            "highlight_accent_color": "",
+            "highlight_text_color": ""
+          }
+        },
+        "richtext_XkRARg": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Terry O’Neill’s photographs feel familiar even to those who have never heard his name before. His photographs have transcended him, becoming cultural relics which hold our ideas of celebrity, creativity, and culture as they were perceived in the 1960’s and resonate to this day. </p><p>Born in London, as a teenager Terry fell in love with jazz: an affair which was interrupted by the national service. After the war, he was desperate to nurture his love for music in America. Applying for a job as an air steward in the hopes he would land in the United States, he was offered a position as a photographer for the London Airport. Tasked with taking images of the interiors of planes, he soon turned his lens towards the celebrities in the airport who walked the same halls and waited in the same seats as everyone else, and who did not yet have an aversion to paparazzi. </p><p>One day, by chance, Terry took an image of Home Secretary Rab Butler and a newspaper asked to buy the image. Terry began working at the Daily Sketch in 1959, marking the beginning of a career in which he photographed celebrities such as Laurence Olivier, Audrey Hepburn, Elton John, Judy Garland, The Beatles, the Rolling Stones, Kate Moss, and Faye Dunaway, creating images which became iconic representations of their legacies. </p><p>Terry O’Neill very possibly represents the best of the genre: a photographer who loves his life, his work, and his subjects. As one of the first photographers who took the role of a paparazzi, Terry looked to uplift his subjects, capturing their vibrancy, their talent, and their uniqueness, never their worst moments or flaws. In Terry’s world, his celebrities represent the potential of humanity, all its creativity and connection. It is this optimism and hopefulness, this rose-colored view of the world, which has lent staying power to his portfolio of work. In his images, we see icons captured with warmth and softness, images which have the feel of personal photographs taken of friends.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_maNaK3",
+        "richtext_XkRARg"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": "lg",
+        "text_alignment": "left"
+      }
+    },
+    "rich_text_Dw7gaM": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yNKNNF": {
+          "type": "heading",
+          "settings": {
+            "text": "Publications",
+            "heading_tag": "h3",
+            "indent": "none",
+            "highlight_effect": "default",
+            "highlight_accent_color": "",
+            "highlight_text_color": ""
+          }
+        },
+        "richtext_MbqX9L": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p><a href=\"https://www.amazon.com/Elton-John-Terry-Oneill-%20Photographs/dp/1788403738/ref=sr_1_6?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156%20&sr=8-6\" target=\"_blank\">Elton John by Terry O’Neill: 40 Years in Photographs (2022)</a></p><p><a href=\"https://www.amazon.com/Bond-Photographed-ONeill-Definitive-%20Collection/dp/1788840720/ref=sr_1_3?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&s%20r=8-3&sprefix=terry%20o%20neil%2Caps%2C156\" target=\"_blank\">Bond: Photographed by Terry O’Neill: The Definitive Collection (2020)</a></p><p><a href=\"https://www.amazon.com/Terry-ONeills-Rock-Roll-Album/dp/1851497722\" target=\"_blank\">Terry O’Neill’s Rock ‘N’ Roll Album (2020)</a></p><p><a href=\"https://www.amazon.com/When-Ziggy-Played-%20Marquee-Performance/dp/1788840593/ref=sr_1_10?qid=1655838509&refinements=p_27%3ATerry+O%27Neill&s=books&sr=1-%2010&text=Terry+O%27Neill\" target=\"_blank\">When Ziggy Played the Marquee: David Bowie’s Last Performance as Ziggy Stardust (2019)</a></p><p><a href=\"https://www.amazon.com/Bowie-ONeill-definitive-collection-%20unseen/dp/1788401018/ref=sr_1_7?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=%208-7\" target=\"_blank\">Bowie by O’Neill (2019)</a></p><p><a href=\"https://www.amazon.com/Elton-John-ONeill-definitive-%20portrait/dp/1788401484/ref=sr_1_2?qid=1655838509&refinements=p_27%3ATerry+O%27Neill&s=books&sr=1-2&text=Terry+O%27Neill\" target=\"_blank\">Elton John by Terry O’Neill (2019)</a></p><p><a href=\"https://www.amazon.com/Breaking-Stones-1963-1965-Brink-%20Superstardom/dp/1851498168/ref=sr_1_10?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C1%2056&sr=8-10\" target=\"_blank\">Breaking Stones: 1693-1965 (2016)</a></p><p><a href=\"https://www.amazon.com/Two-Days-that-Rocked-%20World/dp/1851498060/ref=sr_1_6?qid=1655838509&refinements=p_27%3ATerry+O%27Neill&s=books&sr=1-6&text=Terry+O%27Neill\" target=\"_blank\">Two Days that Rocked the World: Elton John Live at Dodger Stadium (2015)</a></p><p><a href=\"https://www.amazon.com/All-About-Bond-Terry-%20ONeill/dp/1901268578/ref=sr_1_14?crid=1V9ZYUXK3Y6EJ&keywords=Terry%20o%20neill&qid=1655837913&sprefix=terry%20o%20neil%2Caps%2C156&sr=%208-14\" target=\"_blank\">All About Bond (2012)</a></p><p><a href=\"https://www.amazon.com/Eltonography-Life-Pictures-Terry-%20ONeill/dp/1901268330/ref=sr_1_9?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=8-%209\" target=\"_blank\">Eltonography; A Life in Pictures (2008)</a></p><p><a href=\"https://www.amazon.com/Sinatra-Frank-Friendly-Terry-%20ONeill/dp/1901268322/ref=sr_1_15?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=%208-15\" target=\"_blank\">Sinatra: Frank & Friendly (2007)</a></p><p><a href=\"https://www.amazon.com/Terry-ONeill-Chris-Beetles-%20Gallery/dp/1871136954/ref=sr_1_16?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=%208-16\" target=\"_blank\">Terry O’Neill: The Art of Photography (2007)</a></p><p><a href=\"https://www.amazon.com/Celebrity-Terry-%20ONeill/dp/0316724459/ref=sr_1_8?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=8-%208\" target=\"_blank\">Celebrity: The Photographs of Terry O’Neill (2003)</a></p><p><a href=\"https://www.amazon.com/Legends-Terry-%20ONeill/dp/0670809330/ref=sr_1_13?crid=1V9ZYUXK3Y6EJ&keywords=Terry+o+neill&qid=1655837913&sprefix=terry+o+neil%2Caps%2C156&sr=%208-13\" target=\"_blank\">Legends (1985)</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yNKNNF",
+        "richtext_MbqX9L"
+      ],
+      "name": "t:sections.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": "md",
+        "text_alignment": "left"
+      }
+    },
+    "rich_text_w7M6jL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_M9zFRf": {
+          "type": "heading",
+          "settings": {
+            "text": "Retrospectives & Solo Shows",
+            "heading_tag": "h3",
+            "indent": "none",
+            "highlight_effect": "default",
+            "highlight_accent_color": "",
+            "highlight_text_color": ""
+          }
+        },
+        "richtext_BGaQMQ": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Terry O’Neill, Stars, Fotografiska, New York (2023)</p><p>Terry O’Neill Famous, Fotomuseum, Maastricht, Netherlands (2023)</p><p>Male Edition: The Art of Men’s Style, Fahey/Klein Gallery, Los Angeles (2023)</p><p>Chic: Capturing that ‘Je Ne Sais Quoi’ In Fashion Photography, The Selects Gallery, New York (2023)</p><p>Walk of Fame, Camera Work, Berlin, Germany (2023)</p><p>Terry O’Neill, Stars, Fotografiska, New York (2023)</p><p>Terry O’Neill, Leica Store, Harrods, London (2022)</p><p>Terry O’Neill: 60 Years of Iconic Portraits, Sotheby’s, London (2020)</p><p>Terry O’Neill: ‘Every Picture Tells a Story,’ A Retrospective, Maddox Gallery, Gstaad, Switzerland (2020) </p><p>Terry O’Neill: A Tribute, Eduard Planting Gallery, Amsterdam (2020)</p><p>Bond by Terry O’Neill, Iconic Images Gallery, London (2020)</p><p>Terry O’Neill, The Vintage Collection, Zebra One Gallery, London (2020) </p><p>Terry O’Neill: Stars Only, Eduard Planting Gallery, Amsterdam (2018) </p><p>Terry O’Neill: Icons, Complesso Del Vittoriano, Rome (2018)</p><p>David Bowie by Terry O’neill, Ransom Art, London (2016)</p><p>Terry O’Neill: All About Bond, The Cat Street Gallery, Hong Kong (2015) </p><p>Terry O’Neill: Celebrity, National Portrait Gallery, London (2004)</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_M9zFRf",
+        "richtext_BGaQMQ"
+      ],
+      "name": "t:sections.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": "md",
+        "text_alignment": "left"
+      }
+    },
+    "rich_text_4tPfN8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_cAF8ij": {
+          "type": "heading",
+          "settings": {
+            "text": "Exhibitions",
+            "heading_tag": "h3",
+            "indent": "none",
+            "highlight_effect": "default",
+            "highlight_accent_color": "",
+            "highlight_text_color": ""
+          }
+        },
+        "richtext_mriEGq": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Movies Made America, Holden Luntz Gallery, Palm Beach, Florida (2022) </p><p>Fashion, Box Galleries, London (2021)</p><p>10 Year Anniversary, Huxley-Parlor, London (2020) </p><p>Shaken, Not Stirred, Box Galleries, London (2020)</p><p>Always Audrey, The Iconic Images Gallery, London (2020)</p><p>Sir: A Retrospective of Rock Royalrt, Morrison Hotel Gallery, New York/London/Maui (2020) </p><p>Women, HK Art Advisory + Projects, New York (2019)</p><p>Hollywood Re-Loaded, HOFA Gallery, London (2019) </p><p>Music, Le Galerie de l’Instant, Paris (2019)</p><p>Chelsea Girls and Likely Lads, Iconic Images Gallery, London (2019) </p><p>True Glamour/True Grit, Leica Gallery, London (2019)</p><p>Starstruck, Box Galleries, London (2019)</p><p>Terry O’Neill: Rare and Unseen, Blitz Gallery, Tokyo (2019) </p><p>Girls! Girls! Girls! Vol 2, The Little Black Gallery, London (2019) </p><p>Girls! Girls! Girls!, The Little Black Gallery, London (2018)</p><p>Rock ‘N’ Roll, The Little Black Gallery, London (2018)</p><p>The Year of the Dog, The Little Black Gallery, London (2018)</p><p>Photography’s Greatest Icons ‘A Collectors Exhibition,” Isabella Garrucho Fine Art, Greenwich, CT (2018)</p><p>Audrey Hepburn: Beyond the Screen, Proud Camden, London (2018)</p><p>Capturing Culture, Holden Luntz Gallery, Palm Beach, Florida (2018)</p><p>An Ode to Fashion Photogarphy, HK Art Advisory + Projects, New York (2018)</p><p>The Beatles vs The Rolling Stones, La Térmica, Malaga, Spain (2017)</p><p>Flash: British Photographers, Phillips, New York (2017)</p><p>Legends Passed, Eduard Planting Gallery, Amsterdam (2017)</p><p>Fame, OSME Gallery, Vienna, Austria (2017)</p><p>The Art of Sound and Movement, Holden Luntz Gallery, Palm Beach, Florida (2017)</p><p>Shoot! Shoot! Shoot, Münchner Stadtmuseum, Munich (2017)</p><p>Breaking Stones: 1963-1965, Eduard Planting Gallery, Amsterdam (2016)</p><p>Frank Sinatra and Audrey Hepburn: A Life in Pictures, Peter Fetterman Gallery, Los Angeles (2016)</p><p>ROCK STYLE. Curated by Tommy Hilfiger and Jeffrey Deitch, Sotheby’s, London (2015)</p><p>Audrey Hepburn: Portraits of an Icon, National Portrait Gallery, London (2015)</p><p>Blow-Up: Antonionis Filmklassiker und die Fotografie, Fotomuseum Winterthur, Winterthur, Switzerland (2014)</p><p>The Sunday Times Magazine 50th Anniversary, Saatchi Gallery, London (2012)</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_cAF8ij",
+        "richtext_mriEGq"
+      ],
+      "name": "t:sections.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": "md",
+        "text_alignment": "left"
+      }
+    },
+    "rich_text_Mg38bx": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U4MBpx": {
+          "type": "heading",
+          "settings": {
+            "text": "Auctions",
+            "heading_tag": "h3",
+            "indent": "none",
+            "highlight_effect": "default",
+            "highlight_accent_color": "",
+            "highlight_text_color": ""
+          }
+        },
+        "richtext_3rHx9B": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Fashion Photographs from the Susanne von Meiss Collection, Christie’s Paris (2022)</p><p>First Open: Post-War & Contemporary Art Online, Christie’s London (2020)</p><p>Fashion Photo, Christie’s New York (2019)</p><p>Made in Britain, Sotheby's London (2018)</p><p>Photographs: The Portrait, Christie’s London (2015)</p><p>British Modern & Contemporary Photography, Christie’s London (2015)</p><p>Hollywood Icons, Christie’s London (2014)</p><p>Christie's Interiors, Christie’s London (2013)</p><p>The London Sale, Christie’s London (2012)</p><p>Pop Culture: Film & Entertainment Memorabilia, Christie’s London (2011)</p><p>Icons of Glamour and Style: The Constantiner Collection, Christie’s Paris (2019)</p><p>Photographs, Christie’s Paris, New York, and London (2022, 2019, 2016, 2014, 2013, 2012..)</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_U4MBpx",
+        "richtext_3rHx9B"
+      ],
+      "name": "t:sections.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "content_width": "md",
+        "text_alignment": "left"
+      }
+    },
+    "dynamic_grid_YcBzG7": {
+      "type": "dynamic-grid",
+      "blocks": {
+        "dynamic_grid_item_KWxPBd": {
+          "type": "_dynamic-grid-item",
+          "settings": {
+            "visibility": "both",
+            "text_alignment": "center",
+            "desktop_row_start": 6,
+            "desktop_column_start": 6,
+            "desktop_column_end": 12,
+            "desktop_horizontal_adjustment": 0,
+            "desktop_vertical_adjustment": 0,
+            "mobile_row_start": 9,
+            "mobile_column_start": 1,
+            "mobile_column_end": 6,
+            "mobile_horizontal_adjustment": 0,
+            "mobile_vertical_adjustment": 0,
+            "parallax_speed": 0,
+            "parallax_direction": "vertical"
+          },
+          "blocks": {
+            "rich_text_t3N3Nf": {
+              "type": "rich-text",
+              "settings": {
+                "text": "",
+                "content_width": "full"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "rich_text_t3N3Nf"
+          ]
+        },
+        "dynamic_grid_item_frViL6": {
+          "type": "_dynamic-grid-item",
+          "settings": {
+            "visibility": "both",
+            "text_alignment": "left",
+            "desktop_row_start": 2,
+            "desktop_column_start": 5,
+            "desktop_column_end": 15,
+            "desktop_horizontal_adjustment": 0,
+            "desktop_vertical_adjustment": 0,
+            "mobile_row_start": 4,
+            "mobile_column_start": 1,
+            "mobile_column_end": 8,
+            "mobile_horizontal_adjustment": 0,
+            "mobile_vertical_adjustment": 0,
+            "parallax_speed": 0,
+            "parallax_direction": "vertical"
+          },
+          "blocks": {
+            "dynamic_grid_heading_rtmHFP": {
+              "type": "_dynamic-grid-heading",
+              "settings": {
+                "text": "An evocative collaboration between photography and embroidery, <em>Threads of Time</em> reimagines American iconography through the delicate lens of haute couture craftsmanship.",
+                "show_text_vertically": false,
+                "font_size_desktop": 3,
+                "font_size_mobile": 10,
+                "font_size_line_height": 1,
+                "html_tag": "p",
+                "indent": "none",
+                "highlight_effect": "underline_pencil",
+                "highlight_accent_color": "",
+                "highlight_text_color": ""
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "dynamic_grid_heading_rtmHFP"
+          ]
+        },
+        "dynamic_grid_item_TceVTN": {
+          "type": "_dynamic-grid-item",
+          "settings": {
+            "visibility": "both",
+            "text_alignment": "left",
+            "desktop_row_start": 1,
+            "desktop_column_start": 3,
+            "desktop_column_end": 4,
+            "desktop_horizontal_adjustment": 0,
+            "desktop_vertical_adjustment": 0,
+            "mobile_row_start": 1,
+            "mobile_column_start": 1,
+            "mobile_column_end": 2,
+            "mobile_horizontal_adjustment": 0,
+            "mobile_vertical_adjustment": 0,
+            "parallax_speed": 0,
+            "parallax_direction": "vertical"
+          },
+          "blocks": {
+            "image_with_caption_q7a6L8": {
+              "type": "image-with-caption",
+              "settings": {
+                "image": "shopify://shop_images/ochoginobili_portrait_--no_text_icons_or_objects_--ar_23_--ra_4cbe6789-005d-45ce-84cd-595f0c459a4c_3.png",
+                "caption": "",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_with_caption_q7a6L8"
+          ]
+        },
+        "dynamic_grid_item_gfa37J": {
+          "type": "_dynamic-grid-item",
+          "settings": {
+            "visibility": "both",
+            "text_alignment": "left",
+            "desktop_row_start": 1,
+            "desktop_column_start": 15,
+            "desktop_column_end": 16,
+            "desktop_horizontal_adjustment": 0,
+            "desktop_vertical_adjustment": 0,
+            "mobile_row_start": 1,
+            "mobile_column_start": 6,
+            "mobile_column_end": 8,
+            "mobile_horizontal_adjustment": 0,
+            "mobile_vertical_adjustment": 0,
+            "parallax_speed": 0,
+            "parallax_direction": "vertical"
+          },
+          "blocks": {
+            "image_with_caption_mfrwgd": {
+              "type": "image-with-caption",
+              "settings": {
+                "image": "shopify://shop_images/American_Flag_by_Robert_Farber_x_Atelier_Lebuisson_Work_in_Progress_credits_theselectsgallery_1.jpg",
+                "caption": "",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_with_caption_mfrwgd"
+          ]
+        },
+        "dynamic_grid_item_kn6Th3": {
+          "type": "_dynamic-grid-item",
+          "settings": {
+            "visibility": "both",
+            "text_alignment": "left",
+            "desktop_row_start": 3,
+            "desktop_column_start": 1,
+            "desktop_column_end": 3,
+            "desktop_horizontal_adjustment": 0,
+            "desktop_vertical_adjustment": 0,
+            "mobile_row_start": 12,
+            "mobile_column_start": 1,
+            "mobile_column_end": 3,
+            "mobile_horizontal_adjustment": 0,
+            "mobile_vertical_adjustment": 0,
+            "parallax_speed": 0,
+            "parallax_direction": "vertical"
+          },
+          "blocks": {
+            "image_with_caption_kng6hD": {
+              "type": "image-with-caption",
+              "settings": {
+                "image": "shopify://shop_images/American_Flag_by_Robert_Farber_x_Atelier_Lebuisson_close-up_credits__theselectsgallery_1.jpg",
+                "caption": "",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_with_caption_kng6hD"
+          ]
+        },
+        "dynamic_grid_item_7VYYHc": {
+          "type": "_dynamic-grid-item",
+          "settings": {
+            "visibility": "both",
+            "text_alignment": "left",
+            "desktop_row_start": 3,
+            "desktop_column_start": 12,
+            "desktop_column_end": 14,
+            "desktop_horizontal_adjustment": 0,
+            "desktop_vertical_adjustment": 0,
+            "mobile_row_start": 8,
+            "mobile_column_start": 6,
+            "mobile_column_end": 8,
+            "mobile_horizontal_adjustment": 0,
+            "mobile_vertical_adjustment": 0,
+            "parallax_speed": 0,
+            "parallax_direction": "vertical"
+          },
+          "blocks": {
+            "image_with_caption_CQxiBU": {
+              "type": "image-with-caption",
+              "settings": {
+                "image": "shopify://shop_images/Delphine_Nobili_Founder_Atelier_Lebuisson_credit__theselectsgallery.jpg",
+                "caption": "",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_with_caption_CQxiBU"
+          ]
+        }
+      },
+      "block_order": [
+        "dynamic_grid_item_KWxPBd",
+        "dynamic_grid_item_frViL6",
+        "dynamic_grid_item_TceVTN",
+        "dynamic_grid_item_gfa37J",
+        "dynamic_grid_item_kn6Th3",
+        "dynamic_grid_item_7VYYHc"
+      ],
+      "disabled": true,
+      "name": "t:sections.dynamic_grid.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "allow_transparent_header": true,
+        "background_image": "shopify://shop_images/0._Diner_by_Robert_Farber_x_Atelier_Lebuisson_credits__40theselectsgallery_framed_547a15e2-d73c-471e-b58a-9f07c2517259.jpg",
+        "show_background_image_parallax": true,
+        "add_vertical_spacing": true,
+        "add_horizontal_spacing": true,
+        "gap": 0,
+        "mobile_gap": 10,
+        "overlay_color": "#000000",
+        "overlay_opacity": 20
+      }
+    },
+    "custom_liquid_iENWFQ": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "name": "t:sections.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "liquid": "{% comment %} Simple spacer to add vertical breathing room between sections {% endcomment %}\n<div style=\"padding-top: 2rem; padding-bottom: 2rem;\"></div>",
+        "text_alignment": "left",
+        "add_vertical_spacing": true,
+        "add_horizontal_spacing": true
+      }
+    },
+    "featured_product_jMxaV6": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_yCgQfy": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_LL9LNW": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "badges_cwdJge": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_QHBWwU": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_jY84X7": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms_WfVkkc": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator_mafweJ": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_P6faR6": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false,
+            "uppercase_title": false
+          }
+        },
+        "variant_picker_DjTf4V": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "separate_options": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "swatch_selector_size": "lg",
+            "block_selector_style": "outline",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons_kjQxte": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "show_quantity_selector": true,
+            "add_quantity_selector_spacing": true,
+            "atc_button_style": "solid",
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_9dbrRt": {
+          "type": "pickup_availability",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_yCgQfy",
+        "title_LL9LNW",
+        "badges_cwdJge",
+        "price_QHBWwU",
+        "rating_jY84X7",
+        "payment_terms_WfVkkc",
+        "separator_mafweJ",
+        "description_P6faR6",
+        "variant_picker_DjTf4V",
+        "buy_buttons_kjQxte",
+        "pickup_availability_9dbrRt"
+      ],
+      "disabled": true,
+      "name": "t:sections.featured_product.name",
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "title": "",
+        "title_tag": "h3",
+        "title_icon": "none",
+        "show_scrolling_title": false,
+        "show_product_link": false,
+        "text_alignment": "center",
+        "product": "robert-farber-wet-series",
+        "product_media_size": 50,
+        "content_alignment": "left",
+        "desktop_media_layout": "carousel",
+        "desktop_carousel_controls": "thumbnails_under",
+        "mobile_controls": "lines",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "media_blocks_6e9E6w": {
+      "type": "media-blocks",
+      "disabled": true,
+      "name": "t:sections.media_blocks.name",
+      "settings": {
+        "color_scheme": "",
+        "allow_transparent_header": true,
+        "subheading": "",
+        "title": "The Artists",
+        "content": "<p>A transatlantic collaboration between two visionary talents—uniting Robert Farber’s photographic legacy with Delphine Nobili’s couture embroidery expertise.</p>",
+        "heading_tag": "h4",
+        "text_alignment": "left",
+        "scrolling_title": false,
+        "scrolling_title_separator": "circle",
+        "stack_on_mobile": true,
+        "add_horizontal_spacing": true,
+        "add_border": false,
+        "column_spacing": "sm",
+        "items_per_row": 2,
+        "block_size": "auto"
+      }
+    },
+    "multi_column_kCCCaf": {
+      "type": "multi-column",
+      "blocks": {
+        "multi_column_column_qgXLJq": {
+          "type": "_multi-column-column",
+          "settings": {
+            "color_scheme": "",
+            "text_alignment": "left"
+          },
+          "blocks": {
+            "image_DeAndc": {
+              "type": "image",
+              "settings": {
+                "image": "shopify://shop_images/Screenshot_2025-03-10_at_12.08.48_PM.png",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            },
+            "heading_nAkRnB": {
+              "type": "heading",
+              "settings": {
+                "text": "Atelier Lebuisson’s team",
+                "heading_size": "h6",
+                "html_tag": "p",
+                "indent": "none",
+                "highlight_effect": "default",
+                "highlight_accent_color": "",
+                "highlight_text_color": ""
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_DeAndc",
+            "heading_nAkRnB"
+          ]
+        },
+        "multi_column_column_ggYLBB": {
+          "type": "_multi-column-column",
+          "settings": {
+            "color_scheme": "",
+            "text_alignment": "left"
+          },
+          "blocks": {
+            "image_taQNUG": {
+              "type": "image",
+              "settings": {
+                "image": "shopify://shop_images/Screenshot_2025-03-10_at_12.09.06_PM.png",
+                "max_width": 100,
+                "mobile_max_width": 100
+              },
+              "blocks": {}
+            },
+            "heading_iie7bd": {
+              "type": "heading",
+              "settings": {
+                "text": "Dior Couture SS 2025",
+                "heading_size": "h6",
+                "html_tag": "p",
+                "indent": "none",
+                "highlight_effect": "default",
+                "highlight_accent_color": "",
+                "highlight_text_color": ""
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_taQNUG",
+            "heading_iie7bd"
+          ]
+        },
+        "section-header": {
+          "type": "_section-header",
+          "static": true,
+          "settings": {
+            "subheading": "",
+            "title": "Atelier Lebuisson's Exceptional Savoir-Faire",
+            "content": "<p>An album specially created for the exhibition presents the exceptional savoir-faire of Delphine Nobili and her team. Designed as a sketchbook, it features embroidery samples and highlights the studio’s collaborations with renowned fashion houses. </p>",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "outline",
+            "text_alignment": "left",
+            "heading_size": "h3",
+            "title_icon": "none",
+            "show_scrolling_title": false
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "multi_column_column_qgXLJq",
+        "multi_column_column_ggYLBB"
+      ],
+      "disabled": true,
+      "name": "t:sections.multi_column.name",
+      "settings": {
+        "color_scheme": "",
+        "show_internal_borders": false,
+        "add_horizontal_spacing": true,
+        "add_top_spacing": true,
+        "add_bottom_spacing": true,
+        "items_per_row": 4,
+        "stack_on_mobile": false,
+        "stack_on_desktop": true,
+        "column_spacing": "lg",
+        "row_spacing": "md"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_BUgBQi",
+    "testimonials_kRqTKB",
+    "custom_liquid_DjUM69",
+    "multi_column_KVPHFA",
+    "custom_liquid_pndtrh",
+    "rich_text_pPFxHY",
+    "rich_text_Dw7gaM",
+    "rich_text_w7M6jL",
+    "rich_text_4tPfN8",
+    "rich_text_Mg38bx",
+    "dynamic_grid_YcBzG7",
+    "custom_liquid_iENWFQ",
+    "featured_product_jMxaV6",
+    "media_blocks_6e9E6w",
+    "multi_column_kCCCaf"
+  ]
+}
