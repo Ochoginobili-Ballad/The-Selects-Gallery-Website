@@ -27,19 +27,19 @@ Supported variables
 
     when 'card'
       case settings.product_card_style
-        when 'subheading':
+        when 'subheading'
           assign regular_price_classes = 'subheading text-subdued'
           assign on_sale_price_classes = 'subheading text-on-sale'
           assign compare_at_price_classes = 'subheading text-subdued line-through'
           assign unit_price_classes = 'subheading text-subdued'
 
-        when 'body_text':
+        when 'body_text'
           assign regular_price_classes = 'text-sm text-subdued'
           assign on_sale_price_classes = 'text-sm text-on-sale'
           assign compare_at_price_classes = 'text-sm text-subdued line-through'
           assign unit_price_classes = 'text-sm text-subdued'
 
-        when 'heading':
+        when 'heading'
           assign regular_price_classes = 'text-subdued'
           assign on_sale_price_classes = 'text-on-sale'
           assign compare_at_price_classes = 'text-subdued line-through'
@@ -195,4 +195,19 @@ Supported variables
       </unit-price>
     {%- endif -%}
   {%- endunless -%}
-</price-list>
+</price-list>{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "        when 'subheading':"
+  to: "        when 'subheading'"
+  position: 1310..1335
+- from: "        when 'body_text':"
+  to: "        when 'body_text'"
+  position: 1618..1642
+- from: "        when 'heading':"
+  to: "        when 'heading'"
+  position: 1913..1935
+{%- endcomment -%}
